@@ -1,0 +1,30 @@
+{
+    "name": "silvergoldbull/php-silvergoldbull-api",
+    "description": "SilverGoldBull API Client Library for PHP",
+    "keywords": ["api", "silvergoldbull"],
+    "homepage": "https://github.com/dboys/php-SilverGoldBull-API",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Denis Boyun"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*",
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": {
+            "SilverGoldBull": "lib/"
+        }
+    },
+    "version": "0.0.1"
+}

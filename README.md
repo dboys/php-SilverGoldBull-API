@@ -104,3 +104,10 @@ Documentation
 --------------------
 
 Up-to-date documentation at: https://silvergoldbull.com/api
+
+Tests
+--------------------
+
+```shell
+phpunit test/
+```

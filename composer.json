@@ -4,7 +4,7 @@
     "keywords": ["api", "silvergoldbull"],
     "homepage": "https://github.com/dboys/php-SilverGoldBull-API",
     "type": "library",
-    "license": "GPL",
+    "license": "GPL-2.0+",
     "authors": [
         {
             "name": "Denis Boyun"
